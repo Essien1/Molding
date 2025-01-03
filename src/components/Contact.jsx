@@ -11,7 +11,10 @@ const Contact = () => {
               </h1>
               <p className='md:text-4xl sm:text-3xl text-2xl font-semi-bold'>Let's build responsibly, together</p>
               {/* <p>Sign up to our newsletter and stay up to date.</p> */}
-              <button className='bg-[#00df9a] text-black  rounded-md font-medium w-[200px] ml-4 my-6 px-6 py-3'>
+              
+            </div>
+            <div className='flex justify-center items-center'>
+            <button className='bg-[#00df9a] text-black  rounded-md font-medium w-[200px] ml-4 my-6 px-6 py-3'>
                   Contact Us
                 </button>
             </div>

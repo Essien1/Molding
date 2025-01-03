@@ -19,8 +19,8 @@ const Defaultlayout = ({children}) => {
   )
 }
 
-function NoLayout({ children}) {
-    return <>{children}</>
-}
+// function NoLayout({ children}) {
+//     return <>{children}</>
+// }
 
 export default Defaultlayout

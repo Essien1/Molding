@@ -6,14 +6,14 @@ import caleb4 from "../assets/caleb4.jpg"
 import caleb5 from "../assets/caleb5.jpg"
 import plant from "../assets/plant.jpg"
 import dispatch from "../assets/dispatch.jpg";
-import build from "../assets/build.jpg";
+// import build from "../assets/build.jpg";
 import build2 from "../assets/build2.jpg";
 
 
 
 const Gallery = () => {
  
-const images = [caleb1, dispatch, caleb2,build, caleb3, build2, caleb4, caleb5,plant ];
+const images = [caleb1, dispatch, caleb2, caleb3, build2, caleb4, caleb5,plant ];
 
 
   return (
